@@ -1,7 +1,10 @@
 
 My Vision
 
-Creating a carousel filter system, using laravel/livewire.
+Creating a carousel filter system with:
+- <a href="https://laravel.com">Laravel 9.x</a>
+- <a href="https://laravel-livewire.com">Livewire</a>
+- <a href="https://preview.tabler.io/docs/">Tabler.io</a>
 
 
 
